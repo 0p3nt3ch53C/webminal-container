@@ -8,6 +8,7 @@ This container (e.g., docker) for webminal uses [tini](https://github.com/kralli
 
 <h3>Demo</h3>
 
+https://github.com/user-attachments/assets/16ce9011-51bd-4986-9c92-2119b85c57da
 
 <h3>Setup</h3>
 
